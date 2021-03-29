@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <form>
+      <input type="button" onclick="window.location.href='https://cothingamer582.github.io/WEBXR---VR-test-n.2-ctg/';" value="w3docs" />
+    </form>
+  </body>
+</html>
