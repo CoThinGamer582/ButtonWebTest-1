@@ -1,1 +1,4 @@
-<body><div style="text-align:center;"><input type="button" value="*Etichetta bottone 1*" onclick="javascript:document.location.href="*primo.url*" /><input type="button" value="*Etichetta bottone 2*" onclick="javascript:document.location.href="*secondo.url*" /> </div><body>
+<input type=button onClick="opener.location='https://www.plus2net.com/'" value='Make the Main window change'>
+<input type=button onClick="opener.location='https://www.plus2net.com/html_tutorial/button-linking.php'" value='Bring the button linking tutorial again'>
+<input type=button onClick="location='https://www.plus2net.com/'" value='Make the current  window change'>
+<input type=button onClick="self.close();" value="Close this window">
